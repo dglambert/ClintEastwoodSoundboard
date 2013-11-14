@@ -20,7 +20,7 @@ Functional Requirements:
 	
 		REMOVE CLIP - If the users decides the clip is taking up too much disk space he/she can delete it, but still retain his/her ownership and can download it again later at no charge. 
 			  
-		DOWNLOAD CLIP - The users has the ability to download new clips
+		DOWNLOAD CLIP - The users has the ability to browse and download new clips from the built in store.
 		
 	Share Clips
 		Use the built in functionality
