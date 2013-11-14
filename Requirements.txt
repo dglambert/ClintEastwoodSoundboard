@@ -8,13 +8,19 @@ Objective:
 	
 Functional Requirements:
 
-	Play audio clips
-	Organize Clips
-		Organize By
-			Movie
-			Favorite
-			History
-		Don't Organize
+	PLAY AUDIO CLIPS
+	
+	ORGANIZE CLIPS
+	
+		ORGANIZE BY
+		
+			MOVIE
+		
+			FAVORITE
+			
+			HISTORY
+			
+			UN-ORGANIZED
 	
 	DATA STORAGE - The user is given the ability to delete or add clips to preserve disk space.
 	
@@ -22,29 +28,41 @@ Functional Requirements:
 			  
 		DOWNLOAD CLIP - The users has the ability to browse and download new clips from the built in store.
 		
-	Share Clips
-		Use the built in functionality
-	Remove Ads / Purchase
-	Intro / First use
-		show new users all the features on the first use.
-	Tutorial
-	About
-		View my other Apps
-		Disclaimer
-		Contact
-			What
-				Feedback
-					Rate / Like this App?
-					Report issues / improvements
-				Questions
-				Updates
-				Social Media
-				Other
-			How
-				Facebook
-				Twitter
-				Email
-				Website
+	SHARE CLIPS - Use the functionality built into Windows Phone to share content.
+	
+	USERS - The system will support users in order to keep track of ownership of clips.
+	
+	CONTENT REQUESTS - The ability to use a form in the App to request new content.
+	
+		TRACKING - Follow the most requested content until it is accepted into the store.
+		
+		SEARCH - Check to see if they content you are about to request has been requested already and increment it rather than make duplicate entries.
+	
+	PURCHASE / REMOVE ADS 
+	
+	INTRO / FIRST USE - show new users all the features on the first use.
+	
+	TUTORIAL
+	
+	ABOUT
+	
+		VIEW MY OTHER APPS
+		
+		DISCLAIMER
+		
+		CONTACT
+				
+				FEEDBACK
+					
+					RATE 
+					
+					REPORT ISSUES / IMPROVEMENTS
+				
+				QUESTIONS
+				
+				UPDATES
+				
+				SOCIAL MEDIA - Link to social networks ( Facebook, Twitter, Website )
 
 	
 	
