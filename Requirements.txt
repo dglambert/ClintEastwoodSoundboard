@@ -1,12 +1,10 @@
 Objective:
 	
-	1) Bring a missing member to the Windows Phone store, a soundboard for Clint Eastwood. 
+	1) Provide a new experience where users can select what audio clips they want in their soundboards.
 	
-	2) Provide a easy to use experience.
+	2) Deliver a quality product using the software process.
 	
-	3) Deliver a quality product using the software process.
-	
-	4) Use the standard tool available in .NET framework.
+	3) Use the standard tool available in .NET framework.
 	
 Functional Requirements:
 

@@ -1,3 +1,3 @@
-Clint Eastwood Soundboard
+Sound Board
 
-The Clint Eastwood Soundboard is an organized app for Windows Phone that hosts and plays all your favorite Clint Eastwood audio clips. 
+Sound Board is an organized App for Windows Phone that hosts and plays all your favorite audio clips. 
