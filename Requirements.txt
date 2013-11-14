@@ -6,7 +6,7 @@ Objective:
 	
 	3) Use the standard tool available in .NET framework.
 	
-Functional Requirements:
+Requirements:
 
 	PLAY AUDIO CLIPS
 	
@@ -30,7 +30,7 @@ Functional Requirements:
 		
 	SHARE CLIPS - Use the functionality built into Windows Phone to share content.
 	
-	USERS - The system will support users in order to keep track of ownership of clips.
+	SECURITY - The system will support users in order to keep track of ownership of clips.
 	
 	CONTENT REQUESTS - The ability to use a form in the App to request new content.
 	
