@@ -20,7 +20,7 @@ Functional Requirements:
 			
 			HISTORY
 			
-			UN-ORGANIZED
+			ALL
 	
 	DATA STORAGE - The user is given the ability to delete or add clips to preserve disk space.
 	
