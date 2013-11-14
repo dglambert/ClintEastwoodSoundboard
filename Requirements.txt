@@ -64,7 +64,8 @@ Requirements:
 				
 				SOCIAL MEDIA - Link to social networks ( Facebook, Twitter, Website )
 
-	
+	PERFORMANCE - The application will demonstrate specific performance requirements listed when applicable by feature.
+		
 	
 	
 	
