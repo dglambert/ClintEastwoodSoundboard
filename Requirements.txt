@@ -1,7 +1,50 @@
-Play clips
-Organize
-	By movie
-	View all
-Share
-Intro
-Tutorial
+Objective:
+	
+	1) Bring a missing member to the Windows Phone store, a soundboard for Clint Eastwood. 
+	
+	2) Provide a easy to use experience.
+	
+	3) Deliver a quality product using the software process.
+	
+	4) Use the standard tool available in .NET framework.
+	
+Functional Requirements:
+
+	Play audio clips
+	Organize Clips
+		Organize By
+			Movie
+			Favorite
+			History
+		Don't Organize
+	Share Clips
+		Use the built in functionality
+	Remove Ads / Purchase
+	Intro / First use
+		show new users all the features on the first use.
+	Tutorial
+	About
+		View my other Apps
+		Disclaimer
+		Contact
+			What
+				Feedback
+					Rate / Like this App?
+					Report issues / improvements
+				Questions
+				Updates
+				Social Media
+				Other
+			How
+				Facebook
+				Twitter
+				Email
+				Website
+
+	
+	
+	
+	
+	
+	
+	
