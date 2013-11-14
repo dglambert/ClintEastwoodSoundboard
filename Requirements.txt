@@ -17,6 +17,13 @@ Functional Requirements:
 			Favorite
 			History
 		Don't Organize
+	
+	DATA STORAGE - The user is given the ability to delete or add clips to preserve disk space.
+	
+		REMOVE CLIP - If the users decides the clip is taking up too much disk space he/she can delete it, but still retain his/her ownership and can download it again later at no charge. 
+			  
+		DOWNLOAD CLIP - The users has the ability to download new clips
+		
 	Share Clips
 		Use the built in functionality
 	Remove Ads / Purchase
