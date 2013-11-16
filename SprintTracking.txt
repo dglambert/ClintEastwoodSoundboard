@@ -1,0 +1,7 @@
+Sprint Tracking
+
+This document will be used to keep track of progress during the current sprint.
+
+-----------------------------------
+Sprint 01
+-----------------------------------
