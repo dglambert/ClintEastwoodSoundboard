@@ -22,7 +22,7 @@ Requirements:
 			
 			ALL
 	
-	DATA STORAGE - The user is given the ability to delete or add clips to preserve disk space.
+	DATA STORAGE - The user is given the ability to delete or add clips to manage disk space.
 	
 		REMOVE CLIP - If the users decides the clip is taking up too much disk space he/she can delete it, but still retain his/her ownership and can download it again later at no charge. 
 			  
