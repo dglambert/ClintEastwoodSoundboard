@@ -8,13 +8,13 @@ Objective:
 	
 Requirements:
 
-	PLAY AUDIO CLIPS
+	PLAY AUDIO CLIPS - Simply select the clip you would like to play from the current collection of audio clips.
 	
-	ORGANIZE CLIPS
+	ORGANIZE CLIPS - Organize clips by included methods of organization.
 	
 		ORGANIZE BY
 		
-			MOVIE
+			GROUPING
 		
 			FAVORITE
 			
@@ -28,7 +28,7 @@ Requirements:
 			  
 		DOWNLOAD CLIP - The users has the ability to browse and download new clips from the built in store.
 		
-	SHARE CLIPS - Use the functionality built into Windows Phone to share content.
+	SHARE CLIPS - Use the functionality built into Windows Phone to share a clip that a user has in his/her current collection.
 	
 	SECURITY - The system will support users in order to keep track of ownership of clips.
 	
