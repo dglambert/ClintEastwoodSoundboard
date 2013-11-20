@@ -23,10 +23,8 @@ Requirements:
 	DATA STORAGE - Users can delete or add clips to manage disk space.
 	
 		REMOVE CLIP - Users can delete clips. Note: User still retain ownership of the clip and can download it again later at no charge. 
-			  
-		DOWNLOAD CLIP - Users have the ability to browse and download new clips from the Clip Store.
 		
-		CLIP STORE - Users will have access to the Clip Store where they can download new clips not included in the original app.
+		ADD CLIP FROM CLIP STORE - Users will have access to the Clip Store where they can download new clips not included in the original app.
 		
 	SHARE CLIPS - Users can share the clips in their collection using the built in sharing functionality in Windows Phone 8.
 	

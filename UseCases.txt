@@ -1,0 +1,30 @@
+USECASES
+
+This document is used for documenting the use cases for different functionality.
+
+-----------------------------------
+PLAY AUDIO CLIP
+-----------------------------------
+	1. User navigates to clip they want to play
+	2. User clicks on clip
+	3. Clip Begins
+	4. Clip Finishes
+
+-----------------------------------
+ORGANIZE AUDIO CLIP
+-----------------------------------
+	
+
+-----------------------------------
+DELETE CLIP
+-----------------------------------
+
+-----------------------------------
+ADD CLIP FROM CLIP STORE
+-----------------------------------
+
+-----------------------------------
+SHARE CLIP
+-----------------------------------
+
+
