@@ -8,39 +8,40 @@ Objective:
 	
 Requirements:
 
-	PLAY AUDIO CLIPS - Simply select the clip you would like to play from the current collection of audio clips.
+	PLAY AUDIO CLIPS - Users can select the clips they would like to play from the current collection of audio clips.
 	
-	ORGANIZE CLIPS - Organize clips by included methods of organization.
-	
-		ORGANIZE BY
+	ORGANIZE CLIPS - Users can organize clips by included functionality of organization.
 		
-			GROUPING
+			GROUP - Users can organize by the parent group
 		
-			FAVORITE
+			FAVORITE - Users can organize by their favorite clips.
 			
-			HISTORY
+			HISTORY - Users can organize by history of clips they play chronologically.
 			
-			ALL
+			ALPHABETICAL - Users can organize clips alphabetically.
 	
-	DATA STORAGE - The user is given the ability to delete or add clips to manage disk space.
+	DATA STORAGE - Users can delete or add clips to manage disk space.
 	
-		REMOVE CLIP - If the users decides the clip is taking up too much disk space he/she can delete it, but still retain his/her ownership and can download it again later at no charge. 
+		REMOVE CLIP - Users can delete clips. Note: User still retain ownership of the clip and can download it again later at no charge. 
 			  
-		DOWNLOAD CLIP - The users has the ability to browse and download new clips from the built in store.
+		DOWNLOAD CLIP - Users have the ability to browse and download new clips from the Clip Store.
 		
-	SHARE CLIPS - Use the functionality built into Windows Phone to share a clip that a user has in his/her current collection.
-	
-	SECURITY - The system will support users in order to keep track of ownership of clips.
-	
-	CONTENT REQUESTS - The ability to use a form in the App to request new content.
-	
-		TRACKING - Follow the most requested content until it is accepted into the store.
+		CLIP STORE - Users will have access to the Clip Store where they can download new clips not included in the original app.
 		
-		SEARCH - Check to see if they content you are about to request has been requested already and increment it rather than make duplicate entries.
+	SHARE CLIPS - Users can share the clips in their collection using the built in sharing functionality in Windows Phone 8.
+	
+	SECURITY - Users will be assigned an ID and Password in order to assign access to clips in the Clip Store.
+	
+	CONTENT REQUESTS - Users can request new content in the Clip Store.
+	
+		FORM REQUEST - Users can use forms in the app to request new content.
+		
+		TRACKING - Users can see all requested content.
+		
 	
 	PURCHASE / REMOVE ADS 
 	
-	INTRO / FIRST USE - show new users all the features on the first use.
+	INTRO / FIRST USE - Users will see an introduction on their first use.
 	
 	TUTORIAL
 	
