@@ -24,6 +24,8 @@ Requirements:
 	
 	REMOVE CLIP - Users can delete clips. Note: User still retain ownership of the clip and can download it again later at no charge. 
 	
+	PREVIEW CLIP - Users can press and hold a clip, a preview will be displayed with the transcript and a play button. If the users doesn't own the clip, selecting or pressing and holding the clip with have the same result, but the option to purchase and download the clip will replace the option to play. 
+	
 	ADD CLIP FROM CLIP STORE - Users will have access to the Clip Store where they can download new clips not included in the original app.
 		
 	SHARE CLIPS - Users can share the clips in their collection using the built in sharing functionality in Windows Phone 8.
