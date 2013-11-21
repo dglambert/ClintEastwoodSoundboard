@@ -9,16 +9,18 @@ Objective:
 Requirements:
 
 	PLAY AUDIO CLIPS - Users can select the clips they would like to play from the current collection of audio clips.
+			
+	CATEGORY - a category contains groups or subgroups. 
 	
-	ORGANIZE CLIPS - Users can organize clips by included functionality of organization.
-		
-			GROUP - Users can organize by the parent group
-		
-			FAVORITE - Users can organize by their favorite clips.
-			
-			HISTORY - Users can organize by history of clips they play chronologically.
-			
-			ALPHABETICAL - Users can organize clips alphabetically.
+	GROUP - a group contains subgroups.
+	
+	SUBGROUP - a subgroup contains clips.
+	
+	CLIP - a clips contains a file path to a audio clip
+	
+	HISTORY - The app will contain a pivot with a group of clips played chronologically starting with most recent at the top then descending.
+	
+	FAVORITES - The app will contain a pivot with a group of clips selected by the users.
 	
 	DATA STORAGE - Users can delete or add clips to manage disk space.
 	
