@@ -22,11 +22,9 @@ Requirements:
 	
 	FAVORITES - The app will contain a pivot with a group of clips selected by the users.
 	
-	DATA STORAGE - Users can delete or add clips to manage disk space.
+	REMOVE CLIP - Users can delete clips. Note: User still retain ownership of the clip and can download it again later at no charge. 
 	
-		REMOVE CLIP - Users can delete clips. Note: User still retain ownership of the clip and can download it again later at no charge. 
-		
-		ADD CLIP FROM CLIP STORE - Users will have access to the Clip Store where they can download new clips not included in the original app.
+	ADD CLIP FROM CLIP STORE - Users will have access to the Clip Store where they can download new clips not included in the original app.
 		
 	SHARE CLIPS - Users can share the clips in their collection using the built in sharing functionality in Windows Phone 8.
 	
