@@ -2,13 +2,47 @@ USECASES
 
 This document is used for documenting the use cases for different functionality.
 
------------------------------------
+------------------------------------------------------------------------------
 PLAY AUDIO CLIP
------------------------------------
-	1. User navigates to clip they want to play
-	2. User clicks on clip
-	3. Clip Begins
-	4. Clip Finishes
+------------------------------------------------------------------------------
+	1. User navigates to categories pivot.
+	2. User selects category.
+	3. User navigates to pivot of desired group.
+	4. If pivot contains subgroups, 
+		then user selects desired subgroup.
+	5. User selects desired sound clip.
+	6. Sound clip plays.
+	7. Sound clip completes.
+	
+	---------------------------------------------------------------------------
+		NOUN EXTRACTION 
+	---------------------------------------------------------------------------
+		User
+		pivot
+		Category
+		Sound Group
+		Sub Sound Group
+		Sound Clip
+	
+	---------------------------------------------------------------------------
+		SCENARIOS 
+	---------------------------------------------------------------------------
+		// Example with subgroup
+		1. User navigates to categories pivot.
+		2. User selects Actors.
+		3. User navigates to Clint Eastwood pivot.
+		4. User selects "A Fistful of Dollars" group.
+		5. User selects " I don't think its nice, you laughin' " clip.
+		6. Sound clip plays.
+		7. Sound clip completes.
+		
+		// Example without subgroup
+		1. User navigates to categories pivot.
+		2. User selects Animals.
+		3. User navigates to Cats pivot.
+		4. User selects random meowing clip.
+		5. Sound clip plays.
+		6. Sound clip completes.
 
 -----------------------------------
 ORGANIZE AUDIO CLIP
