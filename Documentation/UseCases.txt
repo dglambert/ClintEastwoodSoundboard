@@ -5,14 +5,15 @@ This document is used for documenting the use cases for different functionality.
 ------------------------------------------------------------------------------
 PLAY AUDIO CLIP
 ------------------------------------------------------------------------------
-	1. User navigates to categories pivot.
-	2. User selects category.
-	3. User navigates to pivot of desired group.
-	4. If pivot contains subgroups, 
-		then user selects desired subgroup.
-	5. User selects desired sound clip.
-	6. Sound clip plays.
-	7. Sound clip completes.
+	1. User navigates to categories pivot. (Main Page)
+	2. User selects category. (Main Page)
+	3. If catagory contains subgroups,
+		Then user selects group from Catagory Page. (Catagory Page)
+	4. User is forwarded to Group Page. (Catagory Page or Main Page)
+	5. User navigates pivots for desired sound clip. (Group Page)
+	6. User selects sound clip.(Group Page)
+	6. Sound clip plays. (Group Page)
+	7. Sound clip completes.(Group Page)
 	
 	---------------------------------------------------------------------------
 		NOUN EXTRACTION 
