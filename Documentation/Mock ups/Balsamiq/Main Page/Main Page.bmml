@@ -60,10 +60,10 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="77" y="38" w="-1" h="-1" measuredW="411" measuredH="68" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="77" y="38" w="-1" h="-1" measuredW="523" measuredH="68" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <size>60</size>
-        <text>SOUNDBOARD</text>
+        <text>SB%20SOUND%20BOARD</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="77" y="106" w="-1" h="-1" measuredW="243" measuredH="48" zOrder="4" locked="false" isInGroup="-1">
