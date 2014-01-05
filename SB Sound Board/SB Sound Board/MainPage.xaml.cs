@@ -34,5 +34,10 @@ namespace SB_Sound_Board
         {
 
         }
+
+        private void LongListSelector_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
