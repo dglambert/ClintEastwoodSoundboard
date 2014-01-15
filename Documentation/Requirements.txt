@@ -8,6 +8,12 @@ Objective:
 	
 Requirements:
 
+	ONLINE MOVIE DATA- The app will pull movie data from an online database like IMDB or Rotten Tomatoes
+	
+	COLLECTING USER DATA - Everytime a user tries to play a clip that is not available, the user will be notified it's not available and that their request has been recorded and will be used to request this content from the provider.
+	
+	ADS - When a clip is being played an ad will be displayed either from the content provider or from the default ad source.
+
 	PLAY AUDIO CLIPS - Users can select the clips they would like to play from the current collection of audio clips.
 			
 	CATEGORY - a category contains groups or subgroups. 
